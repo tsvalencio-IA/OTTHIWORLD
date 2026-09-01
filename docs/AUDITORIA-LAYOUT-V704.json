@@ -1,0 +1,38 @@
+{
+  "version": 704,
+  "passed": true,
+  "staticAudit": {
+    "version": 704,
+    "passed": true,
+    "problems": [],
+    "roads": 11,
+    "highways": 3,
+    "structures": 31,
+    "zones": 20,
+    "paths": 14,
+    "signs": 16
+  },
+  "routeAudit": {
+    "routes": 5,
+    "segments": 58,
+    "problems": []
+  },
+  "playAreaAudit": {
+    "areas": [
+      "stadium",
+      "football-field",
+      "volley",
+      "footvolley",
+      "kart-circuit",
+      "kart-boxes"
+    ],
+    "problems": []
+  },
+  "counts": {
+    "roads": 11,
+    "zones": 20,
+    "structures": 31,
+    "paths": 14,
+    "busRoutes": 5
+  }
+}
