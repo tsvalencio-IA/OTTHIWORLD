@@ -1,0 +1,387 @@
+{
+  "version": 705,
+  "build": "705.0-playable-sports-realistic-npcs-kart",
+  "passed": true,
+  "counts": {
+    "checks": 74,
+    "passed": 74,
+    "failed": 0,
+    "functionsIncludingAsync": 1140,
+    "pbrPacks": 40
+  },
+  "checks": [
+    {
+      "name": "Fundação V700 preservada na versão atual",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Nome do novo repositório",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Módulos JavaScript V700 preservados e ampliados",
+      "passed": true,
+      "detail": "46"
+    },
+    {
+      "name": "Módulos CSS V700 preservados e ampliados",
+      "passed": true,
+      "detail": "20"
+    },
+    {
+      "name": "Seis módulos profissionais V700 preservados",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "CSS profissional V700 preservado",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Todas as funções-base permanecem na ordem relativa, exceto módulo cooperativo movido antes do bootstrap",
+      "passed": true,
+      "detail": "661 base ordenadas / 1140 atuais"
+    },
+    {
+      "name": "Nenhuma função-base foi removida",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "Funções ampliadas",
+      "passed": true,
+      "detail": "1140"
+    },
+    {
+      "name": "Arquivo crítico preservado: firebase-config.js",
+      "passed": true,
+      "detail": "72d2fc80efc82b6df856c5b43fd9cc37990cf3fe6ea27c4d90060b4c960e56fd"
+    },
+    {
+      "name": "Arquivo crítico preservado: assets/vendor/three-r128.min.js",
+      "passed": true,
+      "detail": "9274bbcec8d96168626c732b5d31c775aa8cfb7eaa0599bec0c175908a2c1ce2"
+    },
+    {
+      "name": "Arquivo crítico preservado: athos.glb",
+      "passed": true,
+      "detail": "98c8acdbd7e4160eeb34347a3706041b50fa12d2875a03d852e3b218b7959cdb"
+    },
+    {
+      "name": "Mesmo Realtime Database e mesma raiz",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Regras e backend V701/V702 preservam o painel GM",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Migração do save V646 para V700",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Three.js r128 local preservado",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Ao menos 26 pacotes PBR locais",
+      "passed": true,
+      "detail": "40"
+    },
+    {
+      "name": "PBR completo grass",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo road",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo sidewalk",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo water",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo wood",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo brick",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo stone",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo roof",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo fabric",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo school-wall",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo police-wall",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo gold-ore",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo interior-floor",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo interior-wall",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo market-floor",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo market-wall",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo school-floor",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo fire-wall",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo concrete",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo city-glass",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo emergency-metal",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo toy-plastic",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo vehicle-tire",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo hero-energy",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo mushroom",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo foliage",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo dirt",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo sand",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo farmland",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo cliff",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo deep-water",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo shore",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo mud",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo track-rubber",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo sports-turf",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo court-acrylic",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo court-sand",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo kart-asphalt",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo mountain-rock",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "PBR completo stadium-concrete",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Camada visual V700 preservada e ampliada",
+      "passed": true,
+      "detail": "241"
+    },
+    {
+      "name": "Etapa 1 — fundação",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "Etapa 2 — avatar",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "Etapa 3 — render",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "Etapa 4 — máquinas",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "Etapa 5 — aventura",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "Novas atualizações ligadas ao game loop",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Fallback seguro no bootstrap",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Identidade OTTHI preservada com famílias visuais solicitadas",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Index versionado na release atual",
+      "passed": true,
+      "detail": "16"
+    },
+    {
+      "name": "Service Worker na release atual",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Manifesto PWA preservado",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Android na release atual",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Aprovação física permanece pendente",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Manifesto de release coerente",
+      "passed": true,
+      "detail": ""
+    },
+    {
+      "name": "Hashes de release conferem",
+      "passed": true,
+      "detail": "[]"
+    },
+    {
+      "name": "Revisão PWA coerente",
+      "passed": true,
+      "detail": ""
+    }
+  ],
+  "limits": [
+    "Validação estática e local não substitui Android físico, Firebase remoto, multiplayer entre aparelhos, PWA instalada, AR ou APK assinado."
+  ]
+}
